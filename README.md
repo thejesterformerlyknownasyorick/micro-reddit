@@ -1,0 +1,1 @@
+Site allowing users to submits, and other users to comment only on the posts but not on other comments. Exercise in understanding associations.
